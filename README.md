@@ -1,9 +1,11 @@
-# Aula de HTML E CSS
+# Aula de HTML / CSS e JavaScript
 
 ## Professor: Sidney Silva Andrade
 
-# Projeto Transportadora
+# Projeto Calculadora de IMC
 
-*Durante as aulas do professor Sidney, fizemos um projeto de uma transportadora. *  
+*O professor Sidney, passou um desafio para as férias.*
+
+*Realizar um projeto de uma calculadora de IMC, utilizando os aprendizados ministrados em sala de aula.*  
 
 **Qualquer dúvida, estou à disposição no seguinte e-mail: maicon.santos89@hotmail.com**
